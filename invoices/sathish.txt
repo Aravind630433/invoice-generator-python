@@ -1,0 +1,10 @@
+INVOICE - 2025-07-05 00:44:32
+Customer: sathish
+----------------------------------------
+ID  Name       Qty   Price   Total
+brushdaily needs5     15.0    75.0    
+brushdaily needs20    15.0    300.0   
+----------------------------------------
+Subtotal: 375.00
+Tax (10%): 37.50
+Total: 412.50
